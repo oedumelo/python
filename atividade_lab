@@ -1,0 +1,16 @@
+idade1 = 18
+idade2 = 27
+
+idade1 + idade2
+
+soma = idade1 + idade2
+
+multiplicacao = idade1 * idade2
+
+divisao = idade2 / idade1
+
+div_int = idade2 // idade1
+
+resto = idade2 % idade1
+
+idade_usuario = int(input("Digite sua idade: "))
